@@ -3,4 +3,6 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="refresh_icon">\uf021</string>
+    <string name="switch_bar">\uf0c9 </string>
 </resources>
